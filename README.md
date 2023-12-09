@@ -1,6 +1,12 @@
 ![Cover](https://raw.githubusercontent.com/mdmonir-hossain/mdmonir-hossain/main/images/banner%20.gif "Cover")
 
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdmonir-hossain/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdmonir-hossain/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
+
+
+
 ### Hi there 👋
 
 
