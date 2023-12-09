@@ -1,7 +1,16 @@
 ![Cover](https://raw.githubusercontent.com/mdmonir-hossain/mdmonir-hossain/main/images/banner%20.gif "Cover")
 
+## Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmonir-hossain&theme=blue-green)](https://git.io/streak-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdmonir-hossain/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
+ 
+ |               |               |
+| ---------------------- | ---------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmonir-hossain&theme=blue_green)  | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdmonir-hossain/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io) |
+ 
+ 
+
+
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdmonir-hossain/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
