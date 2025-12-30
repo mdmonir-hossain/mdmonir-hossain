@@ -21,7 +21,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,firebase,react,jquery,mongodb,express,tailwind,bootstrap,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## :mailbox: Reach me out
-[<a align="center"><img height="75" src="https://raw.githubusercontent.com/mdmonir-hossain/mdmonir-hossain/main/images/Linkedin-logo-png.png">](https://www.linkedin.com/in/monir-hossain-639009b1/) </a>
+[![LinkedIn](https://raw.githubusercontent.com/mdmonir-hossain/mdmonir-hossain/main/images/Linkedin-logo-png.png)](https://www.linkedin.com/in/monir-hossain-639009b1/)
+
 
 ## Contributions
 
