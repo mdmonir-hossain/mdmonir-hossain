@@ -10,7 +10,7 @@
 ## :eyes: Current overview
 
 - 🔭 I’m currently working in - unique Project
-- 🌱 I’m exploring - mongodb and three.js
+- 🌱 I’m exploring - mongodb
 - 👯 I’m looking to collaborate on - MERN-based projects
 
 ## :computer: Technologies that I know
